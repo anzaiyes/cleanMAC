@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+web_modules/
+
+# Testing sandbox
+mock-project/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.system_generated/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
